@@ -6,11 +6,6 @@ title: GEO 409 Field Trip
 
 ## GEO 409 Field Trip Mapping Project
 
-**Author:** Tristan Taylor  
-**Course:** GEO 409 – Advanced GIS  
-**University:** University of Kentucky  
-**Date:** May 2025
-
 ---
 
 ## Tree Canopy Height – Central UK Campus
@@ -36,7 +31,13 @@ title: GEO 409 Field Trip
 [KY Land Cover PDF](KY_PDF.pdf)
 
 **Details:**
-- **Title:** Selected Land Cover Types in Kentucky  
-- **Subtitle:** Highlighting Forest, Urban, and Agricultural Zones (NLCD 2016)  
+- **Title:** Kentucky Counties 
+- **Subtitle:** And State Landcover
 - **Data Sources:** NLCD 2016 via KyRaster  
-- **Symbology:** Generalized land cover classes; includes legend, scale bar, and north arrow
+
+----
+
+**Author:** Tristan Taylor  
+**Course:** GEO 409 – Advanced GIS  
+**University:** University of Kentucky  
+**Date:** May 2025
