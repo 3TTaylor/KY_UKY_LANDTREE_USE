@@ -1,7 +1,11 @@
-# GEO 409 Field Trip
+# GEO 409 Field Trip Mapping Project
 
-## Kentucky_UK_Land_Tree_FieldTripMaps  
-### GEO 409 Field Trip Mapping Project
+### Land Cover and Tree Canopy Maps: Kentucky and Central UK Campus
+
+**Author:** Tristan Taylor  
+**Course:** GEO 409 – Advanced GIS  
+**University:** University of Kentucky  
+**Date:** May 2025
 
 ---
 
@@ -33,10 +37,3 @@
 - **Title:** Kentucky Counties  
 - **Subtitle:** And State Landcover  
 - **Data Sources:** NLCD 2016 via KyRaster
-
----
-
-**Author:** Tristan Taylor  
-**Course:** GEO 409 – Advanced GIS  
-**University:** University of Kentucky  
-**Date:** May 2025
