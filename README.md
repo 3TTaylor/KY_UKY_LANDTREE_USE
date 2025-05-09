@@ -2,9 +2,7 @@
 
 # GEO 409 Field Trip Mapping Project
 
-## Land Cover and Tree Canopy Analysis for Kentucky and the UK Campus
-
-This project supports a field exercise for comparing remote sensing analysis with field-based tree canopy observations. The maps below were created using ArcGIS Pro, NLCD land cover data, and LiDAR-based elevation models. Each layout has been exported in both JPEG format for web preview and geospatial PDF format for mobile use in the Avenza Maps app.
+The maps below were created using ArcGIS Pro, NLCD land cover data, and LiDAR-based elevation models. Each layout has been exported in both JPEG format for web preview and geospatial PDF format for mobile use.
 
 ---
 
@@ -15,12 +13,12 @@ This project supports a field exercise for comparing remote sensing analysis wit
 
 ---
 
-## 🌲 Tree Canopy Height – Central UK Campus
+## Tree Canopy Height – Central UK Campus
 
-![Tree Canopy Map – JPEG](Tree_Canopy_JPG.jpg)
+![Tree Canopy Map – JPEG](Tree_Canopy_JPG.JPG)
 
-**Download for field use (Avenza-ready PDF):**  
-[📄 Tree Canopy PDF](Tree_Canopy_PDF.pdf)
+**Download PDF version:**  
+[Tree Canopy PDF](Tree_Canopy_PDF.pdf)
 
 - **Title:** Tree Canopy Height Model  
 - **Subtitle:** Central Campus, University of Kentucky  
@@ -31,12 +29,12 @@ This project supports a field exercise for comparing remote sensing analysis wit
 
 ---
 
-## 🗺️ Kentucky Land Cover Map
+## Kentucky Land Cover Map
 
-![Kentucky Land Cover – JPEG](KY_JPG.jpg)
+![Kentucky Land Cover – JPEG](KY_JPG.JPG)
 
-**Download for field use (Avenza-ready PDF):**  
-[📄 Kentucky Land Cover PDF](KY_PDF.pdf)
+**Download PDF version:**  
+[KY Land Cover PDF](KY_PDF.pdf)
 
 - **Title:** Selected Land Cover Types in Kentucky  
 - **Subtitle:** Highlighting Forest, Urban, and Agricultural Zones (NLCD 2016)  
@@ -44,4 +42,3 @@ This project supports a field exercise for comparing remote sensing analysis wit
 - **Symbology:** Generalized land cover classes  
 - **Includes:** Legend, scale bar, north arrow, and data references  
 - **Notes:** Useful for comparing broad canopy and land use trends across counties during the field trip.
-
