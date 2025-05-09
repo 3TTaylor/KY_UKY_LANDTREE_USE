@@ -5,7 +5,6 @@ title: GEO 409 Field Trip
 # Kentucky_UK_Land_Tree_FieldTripMaps
 
 ## GEO 409 Field Trip Mapping Project
----
 
 **Author:** Tristan Taylor  
 **Course:** GEO 409 – Advanced GIS  
@@ -21,9 +20,11 @@ title: GEO 409 Field Trip
 **Download PDF version:**  
 [Tree Canopy PDF](Tree_Canopy_PDF.pdf)
 
+**Details:**
 - **Title:** Tree Canopy Height Model  
 - **Subtitle:** Central Campus, University of Kentucky  
-- **Data Sources:** NAIP 2018, KY DSM & DEM, NDVI canopy filter. This map was created by subtracting DEM from DSM to isolate canopy height and filtering vegetation using an NDVI threshold.
+- **Data Sources:** NAIP 2018, KY DSM & DEM, NDVI canopy filter  
+- **Method:** Canopy height was calculated by subtracting the DEM from the DSM and filtering vegetation using an NDVI threshold.
 
 ---
 
@@ -34,4 +35,8 @@ title: GEO 409 Field Trip
 **Download PDF version:**  
 [KY Land Cover PDF](KY_PDF.pdf)
 
-
+**Details:**
+- **Title:** Selected Land Cover Types in Kentucky  
+- **Subtitle:** Highlighting Forest, Urban, and Agricultural Zones (NLCD 2016)  
+- **Data Sources:** NLCD 2016 via KyRaster  
+- **Symbology:** Generalized land cover classes; includes legend, scale bar, and north arrow
