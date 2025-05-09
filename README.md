@@ -1,16 +1,14 @@
----
-title: GEO 409 Field Trip
----
+# GEO 409 Field Trip
 
-# Kentucky_UK_Land_Tree_FieldTripMaps
-
-## GEO 409 Field Trip Mapping Project
+## Kentucky_UK_Land_Tree_FieldTripMaps  
+### GEO 409 Field Trip Mapping Project
 
 ---
 
 ## Tree Canopy Height – Central UK Campus
 
-<img src="Tree_Canopy_JPG.JPG" alt="Tree Canopy Map – JPEG" width="100%" />
+### Tree Canopy Map – JPEG  
+![Tree Canopy Map](Tree_Canopy_JPG.jpg)
 
 **Download PDF version:**  
 [Tree Canopy PDF](Tree_Canopy_PDF.pdf)
@@ -25,17 +23,18 @@ title: GEO 409 Field Trip
 
 ## Kentucky Land Cover Map
 
-<img src="KY_JPG.JPG" alt="Kentucky Land Cover – JPEG" width="100%" />
+### Kentucky Land Cover – JPEG  
+![Kentucky Land Cover](KY_JPG.jpg)
 
 **Download PDF version:**  
 [KY Land Cover PDF](KY_PDF.pdf)
 
 **Details:**
-- **Title:** Kentucky Counties 
-- **Subtitle:** And State Landcover
-- **Data Sources:** NLCD 2016 via KyRaster  
+- **Title:** Kentucky Counties  
+- **Subtitle:** And State Landcover  
+- **Data Sources:** NLCD 2016 via KyRaster
 
-----
+---
 
 **Author:** Tristan Taylor  
 **Course:** GEO 409 – Advanced GIS  
